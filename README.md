@@ -7,8 +7,8 @@ Over the past year, I've focused on:
 
 - Applying statistics and machine learning to extract meaning from complex datasets  
 - Exploring deep learning for modeling and prediction tasks  
-- 🖼Developing image preprocessing pipelines, especially in medical and physical-science contexts  
-- 🛠Designing and managing databases to support scalable data workflows  
+- Developing image preprocessing pipelines, especially in medical and physical-science contexts  
+- Designing and managing databases to support scalable data workflows  
 
 What drives me is the opportunity to work on **real case studies**, where I can contribute to solving meaningful problems from end to end. I'm passionate about understanding the full lifecycle of a data science problem — from messy raw data to interpretable, impactful results.
 
