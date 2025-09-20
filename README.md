@@ -1,6 +1,6 @@
 ## Hi, I'm Roberto 👋
 
-I’m a Master’s student in Data Science with a B.Sc. in Physics, currently exploring how to turn data into actionable insights by combining a strong quantitative background with real-world applications.
+I’m a Master’s student in High Performance Computing with a B.Sc. in Physics, currently exploring how to turn data into actionable insights by combining a strong quantitative background with real-world applications.
 
 
 Over the past year, I've focused on:
